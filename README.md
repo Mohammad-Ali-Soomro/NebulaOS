@@ -20,13 +20,13 @@ NebulaOS uses **LXD** as the cloud engine to create and manage containerised ins
 
 ## Demo
 
-![Agent Scale Out](screenshots/scale_out_log.jpeg)
+![Agent Scale Out](img4_scale_out_log.jpeg)
 *Agent detecting high memory load and launching a new instance automatically*
 
-![Two Instances Running](screenshots/two_instances.jpeg)
+![Two Instances Running](img4b_two_instances.jpeg)
 *Two containers running after a successful scale-out event*
 
-![Load Simulation](screenshots/agent_simulation.jpeg)
+![Load Simulation](img2_agent_simulationn.jpeg)
 *Load simulation showing AI decisions across three different scenarios*
 
 ---
